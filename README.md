@@ -32,3 +32,4 @@
 #**step to connect Ethereum**
 
 	-> add chrome extension Metamask -> create ethereum wallet account
+
