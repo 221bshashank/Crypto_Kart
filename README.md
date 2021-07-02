@@ -23,7 +23,7 @@
 
 #**how to run full project** 
 
-->Download or clone repository ->Open all files with VS code ->Run at local host or you can just go live at local level OR Just open the link of Git deployed project.
+	->Download or clone repository ->Open all files with VS code ->Run at local host or you can just go live at local level OR Just open the link of Git deployed project.
 
 #**steps to connect Ganache**
 
