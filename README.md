@@ -26,7 +26,6 @@ Crypto_Kart
 
 	-> add chrome extension Metamask -> create ethereum wallet account
 
-•**PPT Link**: https://drive.google.com/file/d/1xEzmxPEkL0YkgNN9bNE8MMQNQfO4UDRO/view?usp=sharing
 
 •**YouTube Link**: https://youtu.be/ojHG9XNluwc
 	
