@@ -1,11 +1,4 @@
-# Technothon-1.0
-•  **Name of the team**: Team Big Billion
-
-•  **Name of the Participants**: Shashank Kumar, Harsh Raj, Prashant Kushwaha, Priyansu Sahoo
-
-•  **Number of Members in a Team** : 4
-
-•  **College** : Siksha O Anusandha Unversity (ITER), Bhubaneswar
+Crypto_Kart
 
 •  **Theme of the Project** : Open Innovation / Blockchain Tech.(Ethereum)
 
